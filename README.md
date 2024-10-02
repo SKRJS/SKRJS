@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 🤷‍♂️ About Me:
 I am a versatile Assistant Operations Manager, Project Manager, Administrator, and Full Stack Developer with over 5 years of experience in optimizing operations, managing projects, and administration success. My over 3 years of freelance work with startups have honed my ability to streamline processes, enhance productivity, and achieve strategic goals. I am passionate about problem-solving, collaboration, and delivering impactful results.
 
 
-## 🌐 Socials:
+## 🔗 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skayubalwahid/) 
 
 # 💻 Tech Stack:
@@ -13,6 +13,4 @@ I am a versatile Assistant Operations Manager, Project Manager, Administrator, a
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SKRJS&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SKRJS&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
